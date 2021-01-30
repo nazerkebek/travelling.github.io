@@ -56,5 +56,6 @@ body{
 }
 .links{
   font-size: 25px;
-  color: white;
+ border: hidden;
+ background-color: grey;  
 }
