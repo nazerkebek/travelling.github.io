@@ -55,13 +55,14 @@ body{
   color: white;
 }
 .links{
-  font-size: 25px;
+  font-size: 20px;
  border: hidden;
- background-color: grey;  
+ background-color: rgb(39, 150, 161);  
 }
 .country{
   font-size: 15px;
   font-family: fantasy;
     text-align: center;
+  color: white;
   
 }
