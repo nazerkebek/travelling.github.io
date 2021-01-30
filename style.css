@@ -59,3 +59,9 @@ body{
  border: hidden;
  background-color: grey;  
 }
+.country{
+  font-size: 15px;
+  font-family: fantasy;
+    text-align: center;
+  
+}
